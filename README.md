@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [fix-bit](https://lnkd.in/gRJuSvrh)
 
-- 💬 Ask me about **curious about high level system design**
+- 💬 Ask me about **system design , i am curious abt it..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
