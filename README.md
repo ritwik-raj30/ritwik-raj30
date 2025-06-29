@@ -3,15 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritwik-raj30&label=Profile%20views&color=0e75b6&style=flat" alt="ritwik-raj30" /> </p>
 
-- 🔭 I’m currently working on [fix-bit](https://lnkd.in/gRJuSvrh)
-
-- 🌱 I’m currently learning **typescript, hld**
-
-- 👯 I’m looking to collaborate on **info-bit**
-
-- 🤝 I’m looking for help with [fix-bit](https://lnkd.in/gRJuSvrh)
-
-- 💬 Ask me about **system design , i am curious abt it..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
